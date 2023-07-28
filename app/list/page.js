@@ -12,7 +12,7 @@ export default function List() {
         productList.map((k,i)=>{
             return(
                 <div className="food" key={i}>
-                    <img src={`/food0${i+1}.jpg`} className="food-img"/>
+                    {/* <img src={`/food0${i+1}.jpg`} className="food-img"/> */}
                 <h4>{k} $40</h4>
              </div>
             )

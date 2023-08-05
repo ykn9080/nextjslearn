@@ -1,7 +1,7 @@
 
 
 export default function Home() {
-  let name= 'Park'
+  let name= 'Youngkinam'
   return (
     <div>
 
